@@ -4,7 +4,7 @@ import {
   getAppIcon,
   IconName,
   setAppIcon,
-} from "@mozzius/expo-dynamic-app-icon";
+} from "@bsky.app/expo-dynamic-app-icon";
 import { useState } from "react";
 
 export default function App() {

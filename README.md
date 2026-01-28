@@ -1,4 +1,4 @@
-# @mozzius/expo-dynamic-app-icon
+# @bsky.app/expo-dynamic-app-icon
 
 > This is a fork of [expo-dynamic-app-icon](https://github.com/outsung/expo-dynamic-app-icon) to support Expo SDK 51+.
 > It also includes:
@@ -12,7 +12,7 @@ Programmatically change the app icon in Expo.
 ## Install
 
 ```
-npx expo install @mozzius/expo-dynamic-app-icon
+npx expo install @bsky.app/expo-dynamic-app-icon
 ```
 
 ### Set icon file

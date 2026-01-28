@@ -1,5 +1,5 @@
 {
-  "name": "@mozzius/expo-dynamic-app-icon",
+  "name": "@bsky.app/expo-dynamic-app-icon",
   "version": "1.8.1",
   "description": "Programmatically change the app icon in Expo.",
   "main": "build/index.js",
@@ -30,13 +30,13 @@
     "expo-dynamic-app-icon",
     "ExpoDynamicAppIcon"
   ],
-  "repository": "https://tangled.sh/@samuel.bsky.team/expo-dynamic-app-icon",
+  "repository": "https://github.com/bluesky-social/expo-dynamic-app-icon",
   "bugs": {
-    "url": "https://tangled.sh/@samuel.bsky.team/expo-dynamic-app-icon/issues"
+    "url": "https://github.com/bluesky-social/expo-dynamic-app-icon/issues"
   },
   "author": "Samuel Newman <mozzius@protonmail.com> (https://github.com/mozzius)",
   "license": "MIT",
-  "homepage": "https://tangled.sh/@samuel.bsky.team/expo-dynamic-app-icon#readme",
+  "homepage": "https://github.com/bluesky-social/expo-dynamic-app-icon#readme",
   "dependencies": {
     "@expo/image-utils": "^0.8.7",
     "xcode": "^3.0.1"
@@ -44,7 +44,7 @@
   "devDependencies": {
     "@types/node": "^24.3.1",
     "@types/react": "~19.1.10",
-    "expo": "^54.0.2",
+    "expo": "^54.0.32",
     "expo-module-scripts": "^5.0.7",
     "typescript": "^5.9.2"
   },

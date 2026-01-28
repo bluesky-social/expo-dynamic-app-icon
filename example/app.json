@@ -32,7 +32,7 @@
     },
     "plugins": [
       [
-        "@mozzius/expo-dynamic-app-icon",
+        "@bsky.app/expo-dynamic-app-icon",
         {
           "light": {
             "ios": "./assets/ios_icon_default_light.png",
