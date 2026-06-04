@@ -1,7 +1,7 @@
 import ExpoDynamicAppIconModule from "./ExpoDynamicAppIconModule";
 import { DynamicAppIconRegistry } from "./types";
 
-export type IconName = DynamicAppIconRegistry["IconName"];
+export type IconName = DynamicAppIconRegistry["IconName"] | (string & {});
 
 export function setAppIcon(
   name: IconName | null
